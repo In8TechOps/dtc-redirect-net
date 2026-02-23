@@ -1,0 +1,10 @@
+{
+  "routeConfigVersion": 1,
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://ineight.com/products/ineight-billings/",
+      "statusCode": 301
+    }
+  ]
+}
